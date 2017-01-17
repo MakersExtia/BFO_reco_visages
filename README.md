@@ -14,3 +14,5 @@ Python
 
 ## Modules
 face_detect sert à importer l'image à traiter puis lancer la cascade pour détecter le(s) visage(s) présent(s)
+haarcascade est le fichier xml contenant les critères à vérifier pour valider l'hypothèse "visage présent"
+capture_pic sert à récupérer une photo depuis la camera rpi
